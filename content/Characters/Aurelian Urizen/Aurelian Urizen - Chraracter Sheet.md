@@ -21,9 +21,13 @@ modifier: 2
 > Description
 
 **Class** |  Cleric 1
+
 **Level** |  1
+
 **Race** |  Celestus
+
 **Alignment** |  Lawful Good
+
 **Background** |  Acolyte
 
 ---
