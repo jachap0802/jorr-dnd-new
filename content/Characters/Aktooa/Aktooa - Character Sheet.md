@@ -17,17 +17,6 @@ modifier: 2
 
 ![[Pasted image 20241005220619.png]]
 
-%% Additional Information %%
-Creator:: <% tp.prompt("Enter creator name") %>
-Universe:: <% tp.prompt("Enter universe name") %>
-Campaign:: <% tp.prompt("Enter campaign name") %>
-Adventure_Diary:: <% tp.prompt("Enter adventure diary") %>
-%%
-
-<i>**` dv= this.Creator `**</i>
-<i>` dv= this.Universe `</i>
-<i>` dv= this.Campaign `</i>
-
 # Aktooa
 
 > Description
