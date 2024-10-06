@@ -120,13 +120,19 @@ Language: Common, Celestusian
 
 # Personality
 ###### Personality Traits
-- Wise: Speaks in proverbs and parables. Cryptic and Indirect Superstitious: I see omens in every event and action. The gods try to speak to us, we just need to listen.
+- Wise: Speaks in proverbs and parables. 
+- Cryptic and Indirect Superstitious: I see omens in every event and action. The gods try to speak to us, we just need to listen.
 
 ###### Ideals
-- Wise: Speaks in proverbs and parables. Cryptic and Indirect Superstitious: I see omens in every event and action. The gods try to speak to us, we just need to listen.
+- Aspiration: I see to prove myself worthy of my god's favor, match my action to his or her teaching. 
+- Divine Order: Duty is to maintain a greater plan of structure and balance. 
+- Law Above All: Laws of gods and the universe transcend personal desire. 
+- Protection of the Weak: Uphold justice and protect those who cannot protect themselves.
 
 ###### Bonds
-- Wise: Speaks in proverbs and parables. Cryptic and Indirect Superstitious: I see omens in every event and action. The gods try to speak to us, we just need to listen.
+- Celestus Temple of Greater Order: Training Place. Closest things to a home. Would go to any length to protect.
+- Sacred Vows: Bound by ancient oaths to his deity. Never to be broken.
+- Few Distant, True Allies: Centuries of life have seen deep bonds forged, though outlived. Memories still influence actions.
 
 ###### Flaws
-- Wise: Speaks in proverbs and parables. Cryptic and Indirect Superstitious: I see omens in every event and action. The gods try to speak to us, we just need to listen.
+- Puts too much trust in Celestus Temple. Overly Detached. Stubborn in Belief. Reluctant to Act Quickly. Burdened by Duty.
