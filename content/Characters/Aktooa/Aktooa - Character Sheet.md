@@ -23,9 +23,13 @@ modifier: 2
 
 
 **Class** |  Monk 1
+
 **Level** |  1
+
 **Race** |  Owlin
+
 **Alignment** |  Chaotic Evil
+
 **Background** |  Charalatan
 
 ---
