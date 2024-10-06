@@ -1,22 +1,12 @@
 ---
-aliases:
-  - Awktooa
-tags:
-  - Entity/Player-Character
-  - Multiverse/D&D
-cssclasses:
-  - hcl
-  - table
-  - t-c
-  - readable
+alias: <% tp.file.title %>
+tags: Entity/Player-Character, Multiverse/D&D
+cssclass: hcl, table, t-c, readable
+
 hp: 20
 ac: 15
 modifier: 2
 ---
-![[Pasted image 20241005220607.png]]
-![[Pasted image 20241005220612.png]]
-
-![[Pasted image 20241005220619.png]]
 
 %% Additional Information %%
 Creator:: <% tp.prompt("Enter creator name") %>
@@ -29,8 +19,7 @@ Adventure_Diary:: <% tp.prompt("Enter adventure diary") %>
 <i>` dv= this.Universe `</i>
 <i>` dv= this.Campaign `</i>
 
-# Aktooa
-
+# <% tp.file.title %>
 > (Description:: <% tp.prompt("Enter description") %>)
 
 ![[|locl+hs-med]] <i>[]()</i>
