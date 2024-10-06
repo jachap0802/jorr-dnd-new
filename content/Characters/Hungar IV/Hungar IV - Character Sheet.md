@@ -1,6 +1,6 @@
 ---
 aliases:
-  - <% tp.file.title %>
+  - Hungar IV
 tags:
   - Entity/Player-Character
   - Multiverse/D&D
