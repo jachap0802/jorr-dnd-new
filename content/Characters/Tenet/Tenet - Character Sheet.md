@@ -19,9 +19,13 @@ modifier: 2
 
 # Tenet
 **Class** |  Wizard
+
 **Level** |  1
+
 **Race** |  Fire Genasi
+
 **Alignment** |  Lawful Evil
+
 **Background** |  Haunted One
 
 ---
