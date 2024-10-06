@@ -90,10 +90,10 @@ Can speak Common, Elvish and Tenet Speak
 # Actions
 
 ## Spells
-| Level | Spell Slots | Prepared Spells |
-|:---:|:---:|:---:|
-| 1 | 2 | Magic Missile, Shield |
-| 2 | 1 | Misty Step |
+| Level | Spell Slots | Prepared Spells  |
+| :---: | :---------: | :--------------: |
+|   1   |      2      | To be determined |
+|   2   |      1      | To be determined |
 
 # Equipment
 | CP  | SP  | EP  | GP  | PP  |
