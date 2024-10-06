@@ -1,15 +1,22 @@
 
-# Welcome to the land of Jorr!
+# Welcome to the Land of Jorr!
 
 Welcome to "The Epoch Of Jorr" Dungeons and Dragons campaign! It is a pleasure to be DM'ing for all of you, and I strive to give the best experience for all of you! In the this home page, I will make sure to link essential rules of the game, to make your experience as simple and beginner friendly as possible. Once again, it is a pleasure having you, and have an amazing time!
 
 [[#What is Dungeons and Dragons?]]
+
 [[#Core Rules]]
+
 [[#Player's Role]]
+
 [[#Dungeon Master's Role]]
+
 [[#Common Terms and Abbreviations]]
+
 [[#Combat Rules]]
+
 [[#Role Playing Tips]]
+
 [[#Tools and Resources]]
 
 
