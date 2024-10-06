@@ -1,6 +1,6 @@
 ---
 aliases:
-  - <% tp.file.title %>
+  - Montoro, The Basher
 tags:
   - Entity/Player-Character
   - Multiverse/D&D
