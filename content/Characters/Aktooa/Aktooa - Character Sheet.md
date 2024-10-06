@@ -2,15 +2,14 @@
 aliases:
   - Awktooa
 tags:
-  - Entity/Player-Character
   - Multiverse/D&D
 cssclasses:
   - hcl
   - table
   - t-c
   - readable
-hp: 20
-ac: 15
+hp: 8
+ac: 12
 modifier: 2
 ---
 ![[Pasted image 20241005220607.png]]
@@ -31,32 +30,29 @@ Adventure_Diary:: <% tp.prompt("Enter adventure diary") %>
 
 # Aktooa
 
-> (Description:: <% tp.prompt("Enter description") %>)
+> Description
 
-![[|locl+hs-med]] <i>[]()</i>
 
-||  
-----|:---:|  
-**Class** |  
-**Level** |  
-**Race** |  
-**Alignment** |  
-**Background** |  
+**Class** |  Monk 1
+**Level** |  1
+**Race** |  Owlin
+**Alignment** |  Chaotic Evil
+**Background** |  Charalatan
 
 ---
 
 # Stats
 | HP | AC | Speed | Initiative |
 |:---:|:---:|:---:|:---:|
-| 20  | 15  | 30ft | +2 |
+| 8  | 12  | 30ft | +2 |
 
 | Hit Dice | Proficiency Bonus | Temp HP |  
 |:---:|:---:|:---:|  
-| 2d10  | +2  | 5  |
+| 1d8  | +2  | 5  |
 
 | Senses | # |
 |---|---|
-**Passive Perception** | 15 |
+**Passive Perception** | 10 |
 
 ---
 
@@ -64,66 +60,63 @@ Adventure_Diary:: <% tp.prompt("Enter adventure diary") %>
 ### Abilities
 | STR | DEX | CON | INT | WIS | CHA | |
 |:---:|:----:|:----:|:---:|:---:|:---:|---|
-| 16  | 14  | 15  | 12  | 10  | 13  | **Stats** |
-| +3  | +2  | +2  | +1  | 0   | +1  | **Modifier** |
-| +5  | +4  | +3  | +2  | +1  | +2  | **Saving Throw** |
+| 13  | 15  | 10  | 9  | 10  | 9  | **Stats** |
+| +1  | +2  | 0  | -1  | 0   | -1  | **Modifier** |
+| +3  | +4  | 0  | -1  | 0  | -1  | **Saving Throw** |
 
 ### Skills
 | # | Skill | Ability |
 |:--:|-----|:------:|
-| . | Acrobatics | DEX |
-| . | Animal Handling | WIS |
-| . | Arcana | INT |
-| . | Athletics | STR |
-| . | Deception | CHA |
-| . | History | INT |
-| . | Insight | WIS |
-| . | Intimidation | CHA |
-| . | Investigation | INT |
-| . | Medicine | WIS |
-| . | Nature | WIS |
-| . | Perception | WIS |
-| . | Performance | CHA |
-| . | Persuasion | CHA |
-| . | Religion | INT |
-| . | Sleight of Hand | DEX |
-| . | Stealth | DEX |
-| . | Survival | WIS |
+| +4 | Acrobatics | DEX |
+| 0 | Animal Handling | WIS |
+| -1 | Arcana | INT |
+| +3 | Athletics | STR |
+| +1 | Deception | CHA |
+| -1 | History | INT |
+| 0 | Insight | WIS |
+| -1 | Intimidation | CHA |
+| -1 | Investigation | INT |
+| 0 | Medicine | WIS |
+| -1 | Nature | WIS |
+| 0 | Perception | WIS |
+| -1 | Performance | CHA |
+| -1 | Persuasion | CHA |
+| -1 | Religion | INT |
+| +4 | Sleight of Hand | DEX |
+| +4 | Stealth | DEX |
+| 0 | Survival | WIS |
 
 # Traits
 
-`button-trait`
+Small, Silent Feathers, Darkvision Flight, Thanks to your wings, you have a flying speed equal to your walking speed. You can't use this flying speed if you're wearing medium or heavy armor. Favorite Schemes, I convince people that worthless junk is worth their hard-earned money. False Identity, Second Identity
 
 ## Proficiencies
-
+Proficiencies: Disguise Kit, Forgery Kit, Simple Weapons, Short swords, Lute
 ## Languages
-
+Languages: Common, Elvish
 # Actions
 
-`button-action`
+
 
 ## Spells
-| Level | Spell Slots | Prepared Spells |
-|:---:|:---:|:---:|
-| 1 | 2 | Magic Missile, Shield |
-| 2 | 1 | Misty Step |
+
 
 # Equipment
 | CP | SP | EP | GP | PP |
 |:---:|:---:|:---:|:---:|:---:|
-| 0  | 5  | 0  | 10 | 1 |
+| 0  | 0  | 0  | 15 | 0 |
 
-- 
+- Short sword (Finesse, light) Backpack, Crowbar, Hammer, 10 pitons, 10 torches, Tinderbox, Waterskin, 50 feet of hempen rope, 10 darts Fine Clothes, Disguise Kit, Set of Weighted Dice
 
 # Personality
 ###### Personality Traits
-- Courageous, Quick thinker
+- Joke for every occasion, especially occasions where humor is inappropriate.
 
 ###### Ideals
-- Protect those who cannot protect themselves
+- Independence, Free spirit - No one tells me what to do
 
 ###### Bonds
-- Bound to an ancient oath
+- A powerful person killed someone I love. Revenge.
 
 ###### Flaws
-- Quick to anger
+- I can't resist swindling powerful people.
