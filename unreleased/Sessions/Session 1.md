@@ -246,7 +246,7 @@ This party would be his moment of redemption, a final stand to reveal the truth 
 
 ## Killer/s, Accomplice/s
 
-### Eramis Frostclaw
+### Eramis Frostclaw - Killer
 
 **Role:** Crime boss posing as Falsia's arms dealer.  
 **Background:** Eramis is a well-known figure in Falsia's high society, reputed for his lavish parties and influential connections. Underneath this polished exterior lies a cunning criminal mastermind who controls the underbelly of the city. He supplies the government with weapons and gear, maintaining a façade of loyalty to the state while secretly aligning himself with the cult to further his interests.
@@ -254,3 +254,336 @@ This party would be his moment of redemption, a final stand to reveal the truth 
 **Motive:** Eramis fears that Valerian’s planned exposure of the cult will not only jeopardize his illicit dealings but also his position of power. If Valerian succeeds in revealing the cult's activities, it could lead to increased scrutiny of his own operations, risking everything he has built.
 
 **Involvement:** While he may not have directly committed the murder, Eramis is heavily involved in orchestrating the events leading up to it. He could have facilitated the murder through hired muscle or provided resources for the killer. Additionally, his close ties with the cult provide him with insider information, allowing him to manipulate events from the shadows to serve his agenda.
+
+Eramis Frostclaw, the crime boss posing as Falsia’s arms dealer, kills Valerian Thorne at the party in the mansion. He arranges for the murder to look like a subtle assassination, likely using poison. Given his connection to the cult and desire to protect his business interests, he ensures the poison mimics something less suspicious, like a heart attack or a slow-acting venom, making it difficult to trace.
+
+Thorne, being on the verge of exposing the cult, had grown paranoid, and Eramis, knowing Thorne’s every move, took the opportunity at the party to quietly administer the poison in a drink or food, under the guise of casual conversation. As Thorne begins to falter and grow weak, Eramis ensures his presence remains unnoticed, blending in with the other guests as the chaos unfolds.
+
+Eramis would likely have a trusted accomplice (perhaps a servant or one of the other suspects like Marion Callis) who helps cover up the tracks, ensuring no clear evidence leads back to him.
+
+### Marion Callis - Accomplice
+
+### Role: Head of Security, Accomplice
+
+**Background:** Marion Callis is a seasoned security professional, having spent years protecting high-profile events and figures in Falsia. She takes pride in her work and has built a reputation for being vigilant and reliable. Marion grew up in a lower-class neighborhood and worked her way up the ranks through sheer determination and skill. She understands the stakes of the elite world she now inhabits but remains haunted by her humble beginnings.
+
+**Appearance:** Marion has a commanding presence, standing tall with a strong build. Her dark hair is typically pulled back in a no-nonsense bun, allowing her sharp, observant eyes to scan her surroundings without distraction. She wears practical yet elegant attire that blends well with the mansion’s atmosphere while allowing for ease of movement.
+
+**Motive:** Marion's primary motive stems from her ties to the cult. She has been paid off to overlook certain activities within the mansion, fearing that Valerian’s revelation about the cult will lead to her losing her position and, ultimately, her stability. The pressure of keeping her job weighs heavily on her, creating a conflict between her duty to the guests and her desire for self-preservation.
+
+**Involvement:** Although she didn’t murder Valerian Thorn, Marion’s negligence in her duties may have contributed to the circumstances that allowed the murder to occur. She may have compromised security measures to avoid suspicion or to maintain her connection with the cult. This could create a compelling dynamic where she is not a direct killer but is nonetheless implicated in the chaos.
+
+**Personality:** Marion is a pragmatic and tough individual, often coming off as cold or aloof to others. However, beneath her hard exterior lies a sense of loyalty to those she cares about, as well as a deep-seated fear of failure. She struggles with the moral implications of her actions, caught between her desire for success and the knowledge that she may be protecting something sinister.
+
+**Potential Development:** Throughout the campaign, Marion could serve as a source of tension. Players might initially see her as an ally, only to later uncover her questionable decisions and motivations. Depending on the players' actions and choices, Marion could either become a reluctant ally seeking redemption or a direct antagonist trying to protect her interests.
+
+### Saphira Drenn
+
+### **Role**: Valerian Thorn’s personal assistant/Innocent
+
+Background:
+
+Saphira Drenn comes from a modest background but managed to work her way into Valerian Thorn’s inner circle as his personal assistant. She’s resourceful, sharp, and loyal to Valerian—at least, that’s how things used to be. She began working for Valerian several years ago when he first became mayor of Falsia’s Commonwealth, and quickly became indispensable due to her organizational skills and ability to keep secrets.
+
+For a long time, Saphira admired Valerian’s ambition and dedication to making Falsia prosperous, unaware of his shady dealings with the cult. However, once she uncovered his connections to the secret cult and his participation in their dark experiments, her view of him shattered. Yet, she remained by his side out of fear and a lack of options—if Valerian went down, so would she.
+
+#### **Motivation**:
+
+Saphira’s main motivation is self-preservation. She knows that if Valerian exposes the cult and its illegal activities, her involvement, even indirectly, could ruin her life. She holds key information about Valerian's inner dealings, both political and personal. Although not directly involved with the cult, she has witnessed disturbing evidence of their influence and Valerian's interactions with them. She harbors a deep resentment toward him for dragging her into such dangerous affairs without her consent.
+
+Her fear isn’t just about political consequences but also about the possibility of retaliation from the cult if she’s implicated. Saphira is caught between protecting herself and the man she once trusted, and navigating the treacherous waters of Falsian politics.
+
+#### **Motive**:
+
+- **Fear of Exposure**: Saphira is terrified that Valerian’s plan to reveal the cult's dark secrets will bring her down with him. She may not be guilty of any major crimes, but her complicity in covering up small details and turning a blind eye to the cult’s activities makes her vulnerable.
+- **Betrayal**: Saphira feels deeply betrayed by Valerian. He kept her in the dark for years, and when she finally learned the truth, she felt trapped in a web of lies. While she cares about her career and life in Falsia, she is also driven by an emotional need for justice—or revenge—for being manipulated by him.
+
+#### **Involvement**:
+
+Saphira is **innocent** of the actual murder, but she is deeply involved in the circumstances surrounding Valerian’s death:
+
+- She knew about his connections to the cult and his plan to expose them at the party. In fact, she was helping him prepare his materials and gathering evidence.
+- She might have provided crucial information to **Marion Callis** or **Eramis Frostclaw** unknowingly, thinking she was simply performing her duties.
+- After the murder, she may withhold key details out of fear or confusion, not knowing who to trust. Her information about Valerian’s dealings could prove vital for the PCs if they can earn her trust or pressure her into revealing what she knows.
+
+#### **Relationships**:
+
+1. **Valerian Thorn**: Saphira was once fiercely loyal to Valerian but feels profoundly betrayed by his manipulation and secrets. While she doesn't hate him, her feelings are complicated—there’s a mix of resentment, admiration, and a sense of duty.
+2. **Eramis Frostclaw**: Saphira knows of Eramis’s connection to Valerian and the cult but is careful not to get too close. She avoids him when possible, fearing his reputation as a dangerous and influential man. She may suspect he had a role in Valerian’s death.
+3. **Marion Callis**: Saphira sees Marion as an ally within the mansion’s hierarchy but suspects that Marion knows more about the murder than she lets on. She might try to question or align with Marion in a bid to protect herself.
+4. **The Cult**: Though Saphira is not a member of the cult, she has seen glimpses of their activities through her association with Valerian. The thought of the cult discovering her knowledge haunts her, and she fears they will target her if she doesn't tread carefully.
+
+#### **Role in the Mystery**:
+
+- **Key Witness**: Saphira holds critical information about Valerian's plans and connections to the cult. She can provide clues that lead the PCs toward the truth, but she’s reluctant to reveal everything, fearing for her safety.
+- **Red Herring**: Due to her close proximity to Valerian and her knowledge of his dealings, she could easily be seen as a prime suspect. Her nervous behavior and reluctance to share details could mislead the players into suspecting her.
+- **Emotional Complexity**: Saphira is torn between a desire for justice and a fear of being implicated. This internal struggle could create dramatic tension, especially if the players interrogate her or try to pressure her into revealing what she knows.
+
+#### **Possible Evidence Linking Saphira**:
+
+- **Personal Letters**: Correspondence between her and Valerian about the upcoming party and his planned revelation, hinting at her awareness of the dangers surrounding the event.
+- **Bloodied Handkerchief**: Saphira was near the crime scene shortly after Valerian's death. A bloodied handkerchief found in her possession might raise suspicions, though it could be explained by her discovering his body.
+- **Burnt Notes**: Saphira might have burned some of Valerian’s incriminating documents in a panic after his murder, leaving behind fragments that the PCs can find and piece together.
+
+#### **Future Role in the Campaign**:
+
+Saphira can evolve as the mystery unfolds. If the PCs help her, she could become a valuable ally in uncovering the deeper cult conspiracy, especially if the PCs work to clear her name. Alternatively, if they push her too hard, she might withhold vital information, leading to dead ends in their investigation. If they uncover too much about the cult, she may grow paranoid, leading to erratic or defensive behavior.
+
+Saphira Drenn represents someone trapped in the moral gray area of Falsia’s political landscape, a victim of circumstance, and a key piece of the puzzle to unraveling the murder of Valerian Thorn.
+
+### Cecilia Wren
+
+#### **Role**: Renowned gossip columnist
+
+#### **Background**:
+
+Cecilia Wren is a fixture in the upper echelons of Falsian society. As a gossip columnist, she has built a career on uncovering scandal, rumors, and the secrets of the elite. She possesses a vast network of informants, from servants in noble households to disgruntled politicians, all feeding her a constant stream of information. Her column, “Whispers of Falsia,” is widely read, feared, and respected. Many people in Falsia’s high society find themselves playing nice with her, hoping to avoid becoming the next subject of her scathing articles.
+
+Cecilia grew up in a lower-class household but clawed her way up to fame through cunning, manipulation, and a sharp intellect. Her charm allows her to navigate social circles and win people’s trust, though behind her pleasant smile lies a ruthless opportunist. Her love of gossip is both her passion and her power, giving her control over the social narrative of the city.
+
+#### **Motivation**:
+
+- **Ambition**: Cecilia is always hungry for the next big story. Valerian’s murder offers her a once-in-a-lifetime opportunity to write about something that could shake the foundations of Falsia. Exposing a murder, a cult, and political corruption would cement her status as the most powerful voice in Falsian media.
+- **Leverage**: Cecilia thrives on the power that comes with knowledge. If she uncovers key information about the murder or the cult, she will hold it over others to advance her own interests. Whether that’s blackmail, publishing an article, or trading secrets for favors, she’ll find a way to make the most out of what she knows.
+- **Survival**: Despite her cutthroat nature, Cecilia understands the dangers of delving too deeply into the wrong secrets. Valerian’s murder ties back to the cult, and as she digs deeper, she might realize how far-reaching and dangerous their influence is. If she uncovers too much, Cecilia might fear for her own safety, making her even more cautious about whom she trusts and what she reveals.
+
+#### **Involvement**:
+
+- **Witness to Secrets**: Cecilia wasn’t directly involved in Valerian’s murder, but she knows more than she lets on. Her sources have already whispered rumors about Valerian’s secret dealings and connections to unsavory characters like Eramis Frostclaw. She’s had her eye on Valerian for months, suspecting that something big was going on behind the scenes.
+- **Unwitting Manipulation**: It’s possible that some of the rumors Cecilia published about Valerian helped push the events leading to his murder. She could have unintentionally spread misinformation or heightened tensions between Valerian and the other suspects. The cult may even have used her to plant false information to keep people guessing.
+
+#### **Motive**:
+
+- **Gain from Scandal**: Valerian’s exposure would bring her immense popularity. Writing the story of a high-ranking official’s fall from grace, tied to a murder mystery and secret cult, would be the biggest scoop of her career. She stands to gain in fame, wealth, and influence if she uncovers the truth before anyone else.
+- **Deflection**: If Cecilia gets too close to the truth, she might realize how dangerous the cult really is. Rather than expose the full story, she could seek to control the narrative, revealing only what benefits her while keeping more sensitive details hidden to protect herself.
+
+#### **Relationships**:
+
+1. **Valerian Thorn**: Cecilia was always suspicious of Valerian and saw him as a potential source of a major story. She was aware of his political maneuvering and likely knew of his connections to the cult, though she hadn’t uncovered the full scope of his involvement. She viewed Valerian as both a target and a potential source of leverage.
+2. **Eramis Frostclaw**: Eramis and Cecilia share a complicated relationship. As a crime boss posing as a respectable arms dealer, Eramis has provided Cecilia with occasional tips and gossip in exchange for her keeping his criminal dealings out of her columns. Cecilia respects his power but is always looking for an opportunity to exploit his secrets.
+3. **Marion Callis**: Marion dislikes Cecilia’s presence at the mansion, seeing her as a potential threat to security and stability. Cecilia, on the other hand, finds Marion’s stern, secretive demeanor fascinating and would love to uncover what Marion is hiding.
+4. **Saphira Drenn**: Cecilia views Saphira as a potential pawn. She knows Saphira is close to Valerian and might hold valuable information about him. Cecilia would use charm or manipulation to get Saphira to open up, knowing that Saphira’s loyalty is wavering.
+5. **Aric Hale**: Cecilia has covered Aric’s rivalry with Valerian extensively, seeing it as a juicy political drama. She might know more about Aric’s relationship with Valerian than she’s willing to let on, and she could use this to pressure Aric into giving her more details if necessary.
+
+#### **Role in the Mystery**:
+
+- **Informant or Manipulator**: Cecilia can serve as a valuable informant for the PCs if they earn her trust or convince her that helping them will further her career. However, she’s also prone to manipulating them, feeding them only selective information to steer the investigation in directions that benefit her.
+- **Red Herring**: Her tendency to stir up drama and seek scandal could make her a prime suspect in the murder. Her opportunistic nature might lead players to believe she played a more direct role in Valerian’s downfall than she actually did.
+- **Keeper of Secrets**: Cecilia likely knows more about the cult than she reveals early on. She could provide the PCs with important leads—rumors she’s heard or details about Valerian’s political rivals—but only if she deems it worth the risk. If the PCs push her too hard or appear to be getting too close to the truth, she might withhold crucial information to protect herself.
+
+#### **Possible Evidence**:
+
+- **Unpublished Notes**: Cecilia’s personal notes on Valerian could provide valuable insights into his dealings with the cult. Her notes may mention names, locations, or meetings that lead the PCs closer to the truth.
+- **Letters from Informants**: Cecilia receives letters from various sources, and one of these might contain cryptic hints about Valerian’s murder or the cult’s activities. A partially burned or incomplete letter could serve as a clue.
+- **A Secret Recording**: Perhaps Cecilia overheard a conversation between two of the suspects and secretly recorded it, intending to use it later for an exposé. The recording might contain incriminating evidence, though the full context may be unclear.
+
+#### **Future Role in the Campaign**:
+
+Cecilia can serve as a recurring character, always looking for the next big scoop and willing to trade favors for information. She’s never fully trustworthy, but her knowledge of Falsian society and her extensive network make her a valuable asset. If the PCs play their cards right, she could become an ally—albeit one with her own agenda—or a dangerous adversary if they cross her.
+
+As the campaign progresses, Cecilia might uncover deeper layers of the cult's influence and struggle with whether to reveal everything or protect her own skin. She could even get caught up in the cult’s machinations, becoming a target herself or inadvertently helping the PCs by publishing a story that draws more attention to their investigation.
+
+Cecilia Wren is a character who thrives on the power of information. She’s a master manipulator, always working behind the scenes, making her a dangerous but potentially helpful figure in the unfolding mystery.
+
+### Aric Hale - Innocent
+
+**Role in High Society**:
+
+- Respected politician and rising star in Falsia.
+- Known for intellect and charisma, competing for political power.
+- Public image of a loyal citizen but privately a political rival to Valerian Thorn.
+- Their childhood friendship complicates the rivalry.
+
+**Inner Conflict**:
+
+- Shares a deep, personal connection with Valerian as a childhood friend.
+- Grapples with concern for Valerian’s safety, knowing Valerian plans to expose the cult.
+- Benefits politically from Valerian’s downfall but struggles with loyalty and friendship.
+- Experiences moments of vulnerability, prioritizing Valerian's well-being despite competition.
+
+**Involvement in the Murder**:
+
+- Innocent of Valerian’s murder, but holds key information about the cult and Valerian's dealings.
+- Withholds crucial facts to protect his political reputation and future.
+- Plays a significant role in the investigation due to his insider knowledge.
+
+**Motive**:
+
+- Did not commit the murder but gains politically from Valerian’s death.
+- Faces political risk if Valerian exposes the cult and implicates powerful individuals.
+- Torn between self-preservation and loyalty to Valerian.
+
+**Key Role in the Mystery**:
+
+- Aric is a complex character driven by emotional ties and political ambition.
+- His role is crucial in providing (or withholding) information that could lead the investigation.
+- Not the true villain, but may mislead investigators to protect his own interests.
+
+### Gaius Blackthorn
+
+- **Role**: Influential merchant and businessman
+- **Motive**: Gaius Blackthorn is heavily invested in maintaining his influence and wealth, which could be threatened by Valerian Thorn’s revelations. He wants to protect his business interests and avoid any scrutiny that might arise from a major political scandal.
+- **Involvement**: While not connected to the cult, Gaius played a critical role in the aftermath of Valerian’s murder. He used his wealth and connections to fund efforts to sweep the murder under the rug, bribing guards and officials to look the other way. Gaius’ influence helps the guilty parties escape immediate consequences, allowing the cult and other key suspects to continue their operations unnoticed.
+- **Reputation**: Though outwardly a respectable figure, Gaius is deeply involved in Falsia's underhanded dealings, using his resources to manipulate outcomes in his favor.
+
+# Relationships
+
+1. **Aric Hale**
+    
+    - **Relationship with Valerian Thorn**: Childhood friend and rival. Their complex friendship is marked by political competition, mutual respect, and concern for each other's well-being.
+    - **Relationship with Marion Callis**: Knows her as the head of security at the mansion, but he views her as a professional rather than a close acquaintance.
+    - **Relationship with Saphira Drenn**: Might have met her through Valerian, but their relationship is more peripheral. He trusts her to some extent due to her closeness to Valerian.
+    - **Relationship with Gaius Blackthorn**: They are both influential figures in Falsian society but likely do not have a personal relationship. Aric may suspect Gaius of shady dealings.
+    - **Relationship with Eramis Frostclaw**: Aware of him as a powerful arms dealer but not intimately familiar. He might see Eramis as a potential threat to Valerian.
+    - **Relationship with Cecilia Wren**: May have interacted with her in social circles but not on a personal level. He might use her to gather information or insights about the rumors circulating.
+    - **Relationship with The High Council Member (Secret PC)**: Unaware of their existence or involvement with the cult.
+2. **Marion Callis**
+    
+    - **Relationship with Valerian Thorn**: Knows him as the man she is tasked to protect. She respects him but is also fearful of the consequences of his potential revelations.
+    - **Relationship with Aric Hale**: Recognizes him as Valerian's rival but has no strong feelings about him.
+    - **Relationship with Saphira Drenn**: Works closely with Saphira in the mansion, but their relationship is primarily professional.
+    - **Relationship with Gaius Blackthorn**: May know him through Falsian high society, seeing him as a powerful merchant but without a personal connection.
+    - **Relationship with Eramis Frostclaw**: Has a clandestine relationship due to his influence in the cult and her being paid off by him. She fears him and sees him as a manipulative figure.
+    - **Relationship with Cecilia Wren**: They might cross paths at social events but have no significant relationship. Marion might see her as a gossip who could endanger her reputation.
+    - **Relationship with The High Council Member (Secret PC)**: Unbeknownst to her, the High Council Member is manipulating events, including her actions.
+3. **Saphira Drenn**
+    
+    - **Relationship with Valerian Thorn**: Works as his personal assistant, deeply invested in his career and aware of his dealings. Feels betrayed and conflicted due to his connections with the cult.
+    - **Relationship with Aric Hale**: Has a respectful, professional distance. She may view him as a competitor for Valerian’s attention and favor.
+    - **Relationship with Marion Callis**: Sees Marion as her superior and protector but feels tension regarding the cult's influence.
+    - **Relationship with Gaius Blackthorn**: Knows him as a figure in high society but has no direct connection.
+    - **Relationship with Eramis Frostclaw**: May have encountered him during events but is largely unaware of his deeper connections to Valerian’s situation.
+    - **Relationship with Cecilia Wren**: Likely disapproves of her gossiping ways but may see her as a source of information about society’s rumors.
+    - **Relationship with The High Council Member (Secret PC)**: Unaware of their existence; may see cult-related influences as distant and abstract.
+4. **Eramis Frostclaw**
+    
+    - **Relationship with Valerian Thorn**: They operate in the same societal sphere, but Valerian likely does not trust him, especially if he learns of his cult ties.
+    - **Relationship with Aric Hale**: They may not interact much, but Eramis sees Aric as a threat due to his relationship with Valerian.
+    - **Relationship with Marion Callis**: Has a more manipulative influence over her, as he has paid her off to keep quiet.
+    - **Relationship with Saphira Drenn**: Not directly connected; she would likely view him with suspicion if aware of his dealings.
+    - **Relationship with Gaius Blackthorn**: They might share business dealings and could respect each other for their influence, but Gaius is unaware of Eramis's cult affiliations.
+    - **Relationship with Cecilia Wren**: Knows her as a gossip columnist; he might use her to spread rumors that benefit him.
+    - **Relationship with The High Council Member (Secret PC)**: They are allies in the cult, working together to ensure Valerian’s downfall and cover up their activities.
+5. **Gaius Blackthorn**
+    
+    - **Relationship with Valerian Thorn**: Acknowledges Valerian as a fellow influential figure but has no personal relationship with him.
+    - **Relationship with Aric Hale**: Similar to Valerian, sees Aric as a potential political rival but doesn't have a personal connection.
+    - **Relationship with Marion Callis**: Knows her in a professional context due to her role in the mansion but does not see her as significant.
+    - **Relationship with Saphira Drenn**: Knows her through her work with Valerian but doesn't have a strong connection.
+    - **Relationship with Eramis Frostclaw**: They might have a business relationship due to Gaius's involvement in shady dealings, but he is unaware of Eramis's cult ties.
+    - **Relationship with Cecilia Wren**: They likely know each other socially, as Gaius may provide her with material for her gossip column.
+    - **Relationship with The High Council Member (Secret PC)**: Unaware of their existence; Gaius is focused on maintaining his reputation and business dealings.
+6. **Cecilia Wren**
+    
+    - **Relationship with Valerian Thorn**: She might have covered Valerian's political moves in her column but doesn't know him personally.
+    - **Relationship with Aric Hale**: She may have encountered him at events but sees him primarily as another political figure.
+    - **Relationship with Marion Callis**: May know her through social events but lacks any significant interaction.
+    - **Relationship with Saphira Drenn**: She might view Saphira as a potential source for juicy gossip but knows little about her personal life.
+    - **Relationship with Eramis Frostclaw**: Likely views him as an important figure in society and might even admire his status, but remains unaware of his darker dealings.
+    - **Relationship with Gaius Blackthorn**: Sees him as a valuable contact for her column and may cover stories involving his business dealings.
+    - **Relationship with The High Council Member (Secret PC)**: Completely unaware of their existence; she may unknowingly share information that could be useful for their agenda.
+7. **The High Council Member (Secret PC)**
+    
+    - **Relationship with Valerian Thorn**: Sees him as a target to eliminate to protect the cult’s interests.
+    - **Relationship with Aric Hale**: Might view Aric as a potential threat, keeping an eye on him as a rival to Valerian.
+    - **Relationship with Marion Callis**: Manipulates her actions for the cult's agenda, using her as an unwitting pawn.
+    - **Relationship with Saphira Drenn**: Has no direct relationship but knows her as Valerian's assistant and may view her with suspicion.
+    - **Relationship with Eramis Frostclaw**: They collaborate to execute the cult's plans, with Eramis providing resources.
+    - **Relationship with Gaius Blackthorn**: Unaware of Gaius's involvement in the cover-up but may see him as a potential ally if it serves the cult's interests.
+    - **Relationship with Cecilia Wren**: Completely unaware of her; they are focused on their goals within the cult and manipulating the others.
+
+### **Suspects Overview**
+
+1. **Valerian Thorn**
+    
+    - **Race:** Human
+    - **Class:** Noble (or Politician)
+2. **Aric Hale**
+    
+    - **Race:** Human
+    - **Class:** Rogue (or Bard)
+3. **Marion Callis**
+    
+    - **Race:** Orc
+    - **Class:** Fighter (or a class suitable for head of security)
+4. **Saphira Drenn**
+    
+    - **Race:** Elf
+    - **Class:** Wizard (or Sorcerer)
+5. **Eramis Frostclaw**
+    
+    - **Race:** Half-Elf
+    - **Class:** Crime Boss (Rogue or Warlock)
+6. **The High Council Member (Secret PC)**
+    
+    - **Race:** Tiefling
+    - **Class:** Warlock (or Cleric)
+7. **Cecilia Wren**
+    
+    - **Race:** Human
+    - **Class:** Bard (or Rogue)
+8. **Gaius Blackthorn**
+    
+    - **Race:** Dwarf
+    - **Class:** Merchant (Fighter or Rogue)
+
+
+### Pre-Murder Timeline of Events
+
+#### 1. **Arrival at the Mansion (Late Afternoon)**
+
+- The party begins, hosted at a luxurious mansion in the high cities of Falsia. The mansion is surrounded by dense forest and brush, adding a sense of isolation.
+- **Guests arrive in lavish carriages**, and guards direct them inside. There is a mix of political figures, aristocrats, and select individuals with mysterious agendas (including the suspects).
+- **Valerian Thorn** is present, though he seems uneasy, clearly distracted and apprehensive about something. He keeps a distance from the crowd, having brief private conversations with certain individuals, especially Aric Hale, who is visibly concerned for his friend.
+- **The PCs are introduced** as part of the "special jury" invited to observe and potentially stop a rumored assassination. They are meant to blend into the event, gathering information without drawing attention to their purpose.
+
+#### 2. **The Political Tension (Early Evening)**
+
+- **Eramis Frostclaw** is making rounds, mingling with high-ranking officials, discussing trade agreements, and subtly pushing his arms deals. He mentions Falsia’s upcoming needs for more weapons, hinting at underlying conflicts.
+- **Saphira Drenn**, Valerian’s assistant, is nervously pacing and trying to stay out of sight, feeling the weight of the secrets she knows.
+- **Marion Callis** is supervising the security measures, but it becomes apparent that there are gaps in her coverage. The players may notice that some areas of the mansion, particularly near Valerian’s quarters, are suspiciously unguarded.
+- **Cecilia Wren**, the gossip columnist, is eavesdropping on conversations, scribbling notes in her journal. She seems especially interested in Valerian and Eramis.
+
+#### 3. **The Private Conversations (Nightfall)**
+
+- **Valerian meets Aric Hale** in one of the mansion's private drawing rooms. The two share an emotional conversation where Aric, torn between rivalry and friendship, urges Valerian not to go through with whatever he's planning.
+    - Valerian insists on revealing the cult's secrets, saying it's the only way to cleanse his conscience, but Aric pleads with him to reconsider for his own safety.
+- **Valerian then meets with Saphira Drenn**, telling her to prepare some documents related to the cult. Saphira, anxious and feeling betrayed, begs him to reconsider, knowing that any exposure of the cult would destroy her future.
+- Meanwhile, **Marion Callis has a covert meeting with Eramis Frostclaw** in a secluded part of the mansion. Eramis gives her one last payment, ensuring that the security tonight will be "lax."
+
+#### 4. **The First Signs of Trouble (Late Night)**
+
+- **A loud argument erupts** between Valerian and Eramis during a toast to Falsia's future. Valerian cryptically mentions dark secrets that will soon come to light, leaving Eramis visibly shaken.
+- As the argument escalates, **the lights flicker**, adding an eerie atmosphere to the gathering.
+- **Cecilia Wren**, always looking for a scoop, slips into a restricted area and overhears snippets of a conversation between Marion and another unnamed figure. They speak of "making sure nothing disrupts the plan," but she’s caught and escorted back to the main hall before she can learn more.
+
+#### 5. **The Last Warning (Shortly Before the Murder)**
+
+- **The players are pulled aside** by a messenger claiming to have overheard someone discussing a potential assassination attempt. They are tasked with keeping a close eye on Valerian and anyone who interacts with him.
+- **Valerian slips away** from the party, heading toward his private chambers to prepare for his speech, where he intends to reveal the cult’s secrets.
+- **Saphira Drenn** attempts to stop him one last time but fails. She walks away, visibly distraught.
+- **Marion Callis and her guards** allow certain areas to go unpatrolled. The players may sense something is off but won’t yet have clear evidence of Marion’s role in it.
+
+#### 6. **The Murder (Moments Later)**
+
+- **Valerian Thorn is found dead** in his private office, stabbed with a ceremonial dagger. The PCs are the first on the scene, either arriving because they were already investigating or because of a loud noise that draws them to the location.
+- The players notice certain clues that will mislead them toward multiple suspects (e.g., signs of tampered security, a note from Valerian, items linking Eramis or Saphira, etc.).
+
+
+### **Location of the Murder: The Mansion’s Conservatory**
+
+- **Setting**: The conservatory is a glass-enclosed room filled with exotic plants, flowers, and even some rare fruits. It has a serene atmosphere, with sunlight streaming through the glass, creating a bright, inviting environment. However, the beauty of the room belies the dark events that unfold within its walls.
+    
+- **Seclusion**: The conservatory is somewhat removed from the main gathering areas of the mansion, providing an opportunity for a private conversation—or a covert meeting—away from the watchful eyes of guests. Its location makes it an ideal spot for a clandestine encounter, where Valerian could meet someone without being interrupted.
+    
+- **Ambiance**: The sounds of rustling leaves and the sweet fragrance of flowers create a deceptive sense of calm. However, once the murder occurs, this beautiful setting transforms into a chilling scene of betrayal and chaos, heightening the emotional stakes for the characters.
+    
+- **Evidence**: The scene may hold important clues, such as:
+    
+    - **Blood Stains**: Evidence of the struggle could be present, perhaps on the glass panels or the surrounding plants.
+    - **Dropped Items**: A personal belonging of Valerian’s, such as a cufflink or a piece of jewelry, may have been left behind during the struggle.
+    - **Signs of a Struggle**: Disheveled plants or broken glass could indicate that a violent confrontation took place here.
+- **Access**: Only select individuals would have known about this location being used for meetings, making it a focal point of suspicion. This adds layers to the investigation, as players may question who had access to the conservatory and why they might want to meet Valerian there.
+    
+
+The choice of the conservatory as the murder location serves as a powerful backdrop to the unfolding mystery, contrasting beauty with violence and intrigue.
