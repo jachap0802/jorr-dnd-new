@@ -86,13 +86,13 @@ Language: Common, Celestusian
 # Actions
 
 ## Spells
-| Level | Spell Slots |                             Prepared Spells                             |
-| :---: | :---------: | :---------------------------------------------------------------------: |
-|   0   |      3      |               Sacred Flame, Toll of the Dead, Thaumaturgy               |
-|   1   |      4      | Command (Order), Heroism (Order), Healing Word (Cleric), Bless (Cleric) |
-|   5   |      2      |                 Mass Healing Ward (Order), Slow (Order)                 |
-|   7   |      2      |               Compulsion (Order), Locate Creature (Order)               |
-|   9   |      2      |                Commune (Order), Dominate Person (Order)                 |
+| Level | Spell Slots |                                                                                                    Prepared Spells                                                                                                    |
+| :---: | :---------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   0   |      3      | [Sacred Flame](https://roll20.net/compendium/dnd5e/Sacred%20Flame#content), [Toll of the Dead](https://dnd5e.wikidot.com/spell:toll-the-dead), [Thaumaturgy](https://roll20.net/compendium/dnd5e/Thaumaturgy#content) |
+|   1   |      4      |                                                                        Command (Order), Heroism (Order), Healing Word (Cleric), Bless (Cleric)                                                                        |
+|   5   |      2      |                                                                                        Mass Healing Ward (Order), Slow (Order)                                                                                        |
+|   7   |      2      |                                                                                      Compulsion (Order), Locate Creature (Order)                                                                                      |
+|   9   |      2      |                                                                                       Commune (Order), Dominate Person (Order)                                                                                        |
 
 # Equipment
 | CP  | SP  | EP  | GP  | PP  |

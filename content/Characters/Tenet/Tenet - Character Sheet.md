@@ -88,10 +88,10 @@ Languages: Common, and nommoC, Celestial, and Mud-Gnome
 # Actions
 
 ## Spells
-| Level | Spell Slots |                            Prepared Spells                            |
-| :---: | :---------: | :-------------------------------------------------------------------: |
-|   0   |      4      |              Message, Encode, Produce Flames, Mage Hand               |
-|   1   |      6      | Absorb Elements, Find Familiar, Identity, Alarm, Feather Fall, Puppet |
+| Level | Spell Slots |                                                                                                                                                                                                      Prepared Spells                                                                                                                                                                                                      |
+| :---: | :---------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   0   |      4      | [Message](https://roll20.net/compendium/dnd5e/Message#content), [Encode](https://mysterydicegoblin.com/blogs/the-mythical-scroll/encode-thoughts-5e-your-ultimate-strategy-guide#:~:text=Encode%20Thoughts%20is%20a%20cantrip,or%20given%20to%20another%20creature.), [Produce Flames](https://roll20.net/compendium/dnd5e/Produce%20Flame#content), [Mage Hand](https://roll20.net/compendium/dnd5e/Mage%20Hand#content) |
+|   1   |      6      |                                                                                                                                                                           Absorb Elements, Find Familiar, Identity, Alarm, Feather Fall, Puppet                                                                                                                                                                           |
 
 # Equipment
 | CP  | SP  | EP  | GP  | PP  |
