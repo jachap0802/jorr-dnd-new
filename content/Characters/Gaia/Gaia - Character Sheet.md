@@ -14,6 +14,11 @@ ac: 15
 modifier: 2
 ---
 
+![[Summer (Gaia)-images-0.jpg]]
+![[Summer (Gaia)-images-1.jpg]]
+![[Summer (Gaia)-images-2.jpg]]
+
+
 
 # Gaia
 
