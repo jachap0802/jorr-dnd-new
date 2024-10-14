@@ -17,7 +17,7 @@ Hungar : Gnome costume, with a red hat along with a monk-like necklace.
 
 Awktooa : An all black suit, with a black tie and black cufflinks
 
-Tenet: A red gnome hat, similar to Hungar's costume but smaller.
+Tenet: A red gnome hat, similar to Hungar's costume but smaller, gave the shopkeeper a coin of unknown origin.
 
 Molasses: A mysterious stone ring, with runes along its diameter, with Bjorn's national symbol
 
